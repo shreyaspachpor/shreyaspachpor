@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw1N8kUfnb8Pk11wvZajTnKC&ust=1712762451958000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDIpb63tYUDFQAAAAAdAAAAABAW" width="300" height="300">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shreyas Pachpor</h1>
 <h3 align="center">A passionate frontend and ML developer </h3>
